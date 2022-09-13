@@ -1,5 +1,3 @@
-# ics4u-unit1-01-typescript
-
 ##################################################
 # Run Mr Coxall's Super Linter against code base #
 ##################################################
