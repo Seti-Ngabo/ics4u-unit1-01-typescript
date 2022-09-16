@@ -18,4 +18,3 @@ const answer = 1100 / (20 * logamount)
 
 console.log(`${answer} is the maximum amount of ${logamount}m logs.`)
 console.log('\nDone.')
-
